@@ -1,8 +1,6 @@
 <h1 align="left">Hi there, I'm Doğukan 👋 </h1>
 
 
-<h3>Contact</h3>
-<p>hanifidogukanozkan@gmail.com</p>
 
 <h2 align='left''> Languages and Tools 💻 </h2>
 <p align='left'>
@@ -16,6 +14,11 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
+
+                                                                                                                                       
+                                                                                                                                       
+<h3>Contact</h3>
+<p>hanifidogukanozkan@gmail.com</p>
 
 
 <!--
