@@ -1,5 +1,10 @@
 <h1 align="left">Hi there, I'm Doğukan 👋 </h1>
 
+I love coding. 
+<p>🚀 I am improving myself on Front-end and Back-end development. </p>
+<p>🤝 I'm open to collaborating on interesting projects and startups.</p>
+<p>✉️ You can contact me at; hanifidogukanozkan@gmail.com </p>
+
 <br>
 
 
@@ -7,8 +12,8 @@
 
 <h2 align='left''> Languages and Tools 💻 </h2>
 <p align='left'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>               
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
@@ -20,11 +25,7 @@
 
 
 <br>
-                                                                                                                                       <br><br>
-                                                                                                                                       
-<h2>Contact</h3>
-                                                                                                                                       <p align='left'>
-<p>hanifidogukanozkan@gmail.com</p>
+
 
 
 <!--
