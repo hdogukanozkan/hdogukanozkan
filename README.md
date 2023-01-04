@@ -1,9 +1,7 @@
-<h1 align="left">Hi there, I'm Doğukan 👋 </h1>
+<h1 align="center">Hi there, I'm Doğukan 👋 </h1>
 
-I love coding. 
 <p>🚀 I am improving myself on Front-end and Back-end development. </p>
-<p>🤝 I'm open to collaborating on interesting projects and startups.</p>
-<p>✉️ You can contact me at; hanifidogukanozkan@gmail.com </p>
+<p>✉️ You can contact me at hanifidogukanozkan@gmail.com </p>
 
 <br>
 
