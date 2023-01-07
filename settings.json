@@ -1,0 +1,79 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "editor.wordWrap": "on",
+  "editor.codeLens": false,
+  "editor.lineNumbers": "on",
+  "editor.formatOnSave": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.insertSpaces": false,
+  "editor.hover.enabled": true,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "workbench.editor.showTabs": true,
+  "workbench.statusBar.visible": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.colorCustomizations": {
+    "terminal.foreground": "#CCCCCC"
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "terminal.integrated.fontFamily": "MonoLisa Regular",
+  "editor.fontFamily": "MonoLisa Regular",
+  "editor.fontSize": 17,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "workbench.preferredDarkColorTheme": "Default Light+",
+  "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+  "workbench.preferredHighContrastLightColorTheme": "Default High Contrast",
+  "explorer.confirmDelete": false,
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.colorTheme": "Now For Reddit Theme",
+  "gitlens.hovers.currentLine.over": "line"
+}
+
+/* 
+
+USE EXTENSIONS
+-> Babel Javascript,
+-> Auto Rename Tag,
+-> Code Snap,
+-> EJS language support,
+-> ES7+ React/Redux/React-Native snippets,
+-> Git History,
+-> Live Server,
+-> Metarial Icon Theme,
+-> Now For Reddit Theme,
+-> Prettier Code formatter,
+-> RapidAPI Client,
+-> Tailwind CSS IntelliSense,
+-> Atom One Dark Theme,
+-> GitLens -- Git supercharged,
+-> GitHub Copilot,
+
+*/
